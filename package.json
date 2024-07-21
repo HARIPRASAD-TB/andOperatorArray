@@ -1,0 +1,25 @@
+{
+  "name": "and_operator_array",
+  "version": "1.0.2",
+  "description": "Operator for colabarate multuiple boolian values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HARIPRASAD-TB/andOperatorArray.git"
+  },
+  "keywords": [
+    "andOperatorArray"
+  ],
+  "author": "Hariprasad T.B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HARIPRASAD-TB/andOperatorArray/issues"
+  },
+  "homepage": "https://github.com/HARIPRASAD-TB/andOperatorArray#readme",
+  "dependencies": {
+    "and_operator_array": "^1.0.2"
+  }
+}
